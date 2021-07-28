@@ -19,3 +19,6 @@ Clonar o repositório, entrar no repositório extaído e executar "vagrant up"
 
 Dica no Linux - instalar pacote unzip e digitar " unzip ansible_docker_install.zip
 
+![image](https://user-images.githubusercontent.com/20565821/127348699-a5e7b5b5-8b8a-49ed-a427-5f7c5f19e203.png)
+
+
