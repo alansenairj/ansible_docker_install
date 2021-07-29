@@ -15,7 +15,7 @@ Playbook simples, sem roles ou templates.
 - Adiciona o User docker ao grupo vagrant
 - Inicia o Docker Service Daemon
 
-Clonar o repositório, entrar no repositório extaído e executar "vagrant up" 
+Clonar o repositório, entrar no repositório extraído e executar "vagrant up" 
 
 Dica no Linux - instalar pacote unzip e digitar " unzip ansible_docker_install.zip
 
