@@ -52,7 +52,11 @@
         url: https://download.docker.com/linux/ubuntu/gpg
         state: present
 
+<<<<<<< HEAD
     - name: Adicionando o repositorio do Docker e usando a versao registrada
+=======
+    - name: Adicionando o repositorio do Docker e usando a verso registrada
+>>>>>>> 4f45a2d368bbc742b88b136b8f8a92b494a707b7
       apt_repository:
         repo: "deb [arch=amd64] https://download.docker.com/linux/ubuntu {{ ubuntu_version.stdout }} stable"
         state: present
